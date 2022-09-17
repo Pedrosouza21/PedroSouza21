@@ -2,9 +2,7 @@
 
 ### Olá! Eu Sou o Pedro Souza ✋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_souzaa013/) 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-souza-354316218/)
 
 ![Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSouza21&show_icons=true&theme=radical)
 
@@ -18,6 +16,10 @@
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_souzaa013/) 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-souza-354316218/)
 
 
 
