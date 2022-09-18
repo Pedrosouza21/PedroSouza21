@@ -7,8 +7,7 @@
 - 🧠 Sou persistente e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança.
 
 ### 📊 Estatísticas 
-![Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSouza21&show_icons=true&theme=radical)
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSouza21&show_icons=true&theme=radical)[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Habilidades
 
