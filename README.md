@@ -6,7 +6,7 @@
 - 🧠 Sou persistente e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança.
 
   <a href="https://github.com/Pedrosouza21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrosouza21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrosouza211&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosouza21&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
