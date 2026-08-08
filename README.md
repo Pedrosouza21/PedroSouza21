@@ -1,9 +1,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 👨‍🎓 Técnico em Desenvolvimento de Sistemas  [Etec Dra. Ruth Cardoso](https://eleitoral.etecdrc.com.br/)
-- 📚 Estudando Análise e Desenvolvimento de Sistemas na [Universidade Santa Cecília](https://unisanta.br/)
-- 🧠 Sou persistente e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança.
+Profissional de TI com experiência  em análise de sistemas, suporte e bancos de dados, habituado a lidar com ambientes dinâmicos e situações sob pressão. Tenho facilidade em aprender rapidamente, trabalhar em equipe e transformar problemas complexos em soluções práticas.
+Busco evolução constante tanto em soft skills quanto em hard skills, com foco em raciocínio lógico, análise de sistemas, comunicação e entrega de resultados. Atualmente, estou direcionando minha carreira para atuar como Desenvolvedor de Software ou Analista de Sistemas.
 
   <a href="https://github.com/Pedrosouza21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrosouza21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
